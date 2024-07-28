@@ -52,7 +52,7 @@ To use this project, follow these steps:
 
 1. Navigate to the project directory:
     ```sh
-    cd network-attack-detection
+    cd network-attacks-detection
     ```
 2. Run :
    ```bash
