@@ -80,9 +80,23 @@ The model achieves high accuracy in detecting network attacks. Below are some ke
 - Accuracy: 90%
 - Precision: 90%
 - Recall: 90%
-
 For detailed results, refer to the `results` directory.
 
+### Project Screenshots
+   <table>
+     <tr>
+       <th>Homepage</th>
+       <th>Sign Up</th>
+       <th>Prediction</th>
+       <th>Results</th>
+     </tr>
+     <tr>
+       <td><img width="385" alt="image" src="https://github.com/user-attachments/assets/fad66726-8c99-4015-a917-580e0a37a60e"></td>
+       <td><img width="92" alt="image" src="https://github.com/user-attachments/assets/5a4af279-e6bd-4d06-bb2f-473769c24a8f"></td>
+       <td><img width="400" alt="image" src="https://github.com/user-attachments/assets/3f15b673-413d-47e7-b759-2086889dd15f"></td>
+       <td><img width="392" alt="image" src="https://github.com/user-attachments/assets/06d54568-f392-403b-b24f-07d16dbf57f3"></td>
+     </tr>
+   </table>
 
 ## Contact
 
