@@ -64,7 +64,7 @@ To use this project, follow these steps:
 
 ## Dataset
 
-The dataset used in this project is [describe the dataset]. It contains various features representing network traffic and labels indicating normal or attack behavior. Download the dataset from [link to dataset] and place it in the `data` directory.
+It contains various features representing network traffic and labels indicating normal or attack behavior. 
 
 ## Model Architecture
 
