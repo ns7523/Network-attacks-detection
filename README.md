@@ -1,23 +1,11 @@
 # Network-attacks-detection
 A Hybrid feature extraction method with machine learning for detecting the presence of network attacks
 
-## Download  Full Project & Report from Drive : 
+### Download  Full Project & Report from Drive : 
   [Drive Link](https://drive.google.com/file/d/1u_e5eiiS--mvURvy8EvVQaXX2AOQCDoQ/view?usp=sharing)
-
-# Hybrid Feature Extraction Method with Machine Learning for Detecting Network Attacks
 
 This project implements a hybrid feature extraction method combined with machine learning techniques to detect network attacks. The aim is to enhance the accuracy and efficiency of intrusion detection systems (IDS) by leveraging advanced feature extraction and classification algorithms.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-  
 ## Introduction
 
 Network security is a critical aspect of modern digital infrastructure. Intrusion Detection Systems (IDS) play a crucial role in identifying and mitigating potential threats. This project focuses on developing a hybrid feature extraction method that combines statistical, syntactical, and machine learning techniques to detect network attacks more accurately.
@@ -29,13 +17,29 @@ Network security is a critical aspect of modern digital infrastructure. Intrusio
 - High accuracy in detecting various types of network attacks
 - Easy-to-use interface for training and testing the model
 
+## System Design
+<table>
+  <tr>
+    <th>Chosen System Design</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="420" alt="image" src="https://github.com/user-attachments/assets/ba71986c-5bea-4904-bbf7-8e1845bef8a3"></td>
+  </tr>
+  <tr>
+    <th>Component 1-n </th>
+  </tr>
+  <tr>
+    <td align="center"><img width="420" alt="image" src="https://github.com/user-attachments/assets/c64f9dce-d8db-4f46-8095-3fd513648424"></td>
+  </tr>
+</table>
+
 ## Installation
-### Use Anaconda Navigator as base root
+`Use Anaconda Navigator as base root.`
 To install and run this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/network-attack-detection.git
+    git clone https://github.com/ns7523/Network-attacks-detection.git
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -43,20 +47,14 @@ To install and run this project, follow these steps:
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
     
-
 ## Usage
 
 To use this project, follow these steps:
 
 1. Navigate to the project directory:
     ```sh
-    cd network-attacks-detection
+    cd Network-attacks-detection
     ```
 2. Run :
    ```bash
@@ -72,16 +70,18 @@ It contains various features representing network traffic and labels indicating 
 
 The model architecture consists of:
 
-1. **Feature Extraction**: Hybrid method combining statistical and syntactical feature extraction techniques.
-2. **Machine Learning Algorithms**: Various algorithms such as Decision Trees, Random Forests, SVM, and Neural Networks are used for classification.
+1. **Feature Extraction**: Hybrid method combining statistical and syntactical `feature extraction` techniques.
+2. **Machine Learning Algorithms**: Various algorithms such as `Decision Trees`, `Random Forests`, `SVM`, and `Neural Networks` are used for classification.
 
 ## Results
 
 The model achieves high accuracy in detecting network attacks. Below are some key performance metrics:
+- Attack: `1`
+- No Attack: `0`
+- Accuracy: `90%`
+- Precision: `90%`
+- Recall: `90%`
 
-- Accuracy: 90%
-- Precision: 90%
-- Recall: 90%
 For detailed results, refer to the `results` directory.
 
 ### Project Screenshots
