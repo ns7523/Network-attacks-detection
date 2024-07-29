@@ -106,5 +106,5 @@ For detailed results, refer to the `results` directory.
 
 ## Contact
 
-For any inquiries or feedback, please contact me at [nsakash752003@gmail.com].
+For any inquiries or feedback, please contact me at nsakash752003@gmail.com
 
