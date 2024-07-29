@@ -1,7 +1,9 @@
 # Network-attacks-detection
 A Hybrid feature extraction method with machine learning for detecting the presence of network attacks
+
 ## Download  Full Project & Report from Drive : 
   [Drive Link](https://drive.google.com/file/d/1u_e5eiiS--mvURvy8EvVQaXX2AOQCDoQ/view?usp=sharing)
+
 # Hybrid Feature Extraction Method with Machine Learning for Detecting Network Attacks
 
 This project implements a hybrid feature extraction method combined with machine learning techniques to detect network attacks. The aim is to enhance the accuracy and efficiency of intrusion detection systems (IDS) by leveraging advanced feature extraction and classification algorithms.
@@ -87,12 +89,16 @@ For detailed results, refer to the `results` directory.
      <tr>
        <th>Homepage</th>
        <th>Sign Up</th>
+      <tr>
+       <td><img width="385" alt="image" src="https://github.com/user-attachments/assets/fad66726-8c99-4015-a917-580e0a37a60e"></td>
+       <td align="center"><img width="140" alt="image" src="https://github.com/user-attachments/assets/5a4af279-e6bd-4d06-bb2f-473769c24a8f" ></td>
+      </tr>
+     </tr>
+     <tr>
        <th>Prediction</th>
        <th>Results</th>
      </tr>
      <tr>
-       <td><img width="385" alt="image" src="https://github.com/user-attachments/assets/fad66726-8c99-4015-a917-580e0a37a60e"></td>
-       <td><img width="92" alt="image" src="https://github.com/user-attachments/assets/5a4af279-e6bd-4d06-bb2f-473769c24a8f"></td>
        <td><img width="400" alt="image" src="https://github.com/user-attachments/assets/3f15b673-413d-47e7-b759-2086889dd15f"></td>
        <td><img width="392" alt="image" src="https://github.com/user-attachments/assets/06d54568-f392-403b-b24f-07d16dbf57f3"></td>
      </tr>
@@ -100,5 +106,5 @@ For detailed results, refer to the `results` directory.
 
 ## Contact
 
-For any inquiries or feedback, please contact [me] at [nsakash752003@gmail.com].
+For any inquiries or feedback, please contact me at [nsakash752003@gmail.com].
 
