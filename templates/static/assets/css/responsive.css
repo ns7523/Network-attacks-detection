@@ -1,0 +1,994 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+/*--header-section--*/
+
+.it-solution_menu ul {
+    padding: 0 90px 0 0
+}
+
+.hero-content h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+
+/*--choose-section--*/
+
+.section-title h1 {
+
+    font-size: 35px;
+    line-height: 40px;
+}
+
+.choose-us-thumb {
+    margin-right: 20px;
+}
+
+.info-content h4 {
+    font-size: 22px;
+}
+
+.info-content p {
+    font-size: 15px;
+}
+
+.choose-us-button {
+    padding-top: 0;
+}
+
+.case_study_menu ul li {
+    margin-left: 5px;
+}
+
+.blog-meta-icon a {
+    font-size: 22px;
+}
+
+.testimonial-section .section-title h5:after {
+    left: 57%;
+}
+
+.testimonial-section .section-title h5:before {
+    left: 31rem;
+}
+
+.footer-widget-menu ul a {
+    font-size: 14px;
+}
+
+.Popular-img {
+    left: 170px;
+}
+
+.pricing-single-items.style_one.style_3 {
+    padding: 30px 25px 40px 25px;
+}
+
+.blog-meta-icon a:before {
+    width: 120%;
+}
+
+.widget_search {
+    padding: 45px 20px;
+}
+
+.widget_search form i {
+    left: 50px;
+}
+
+.widget_search form input {
+    padding: 14px 80px 14px 75px;
+}
+
+h4.sidebar-title:before {
+    right: 5px;
+    width: 160px;
+}
+
+.widget-sidebar-box-right  h4.sidebar-title:before {
+    right: 10px;
+    width: 130px;
+}
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+/*header-section*/
+
+.it-solution_menu ul {
+    padding: 0 10px 0 0;
+}
+    
+.it-solution_menu>ul>li>a {
+    margin: 32px 8px;
+    font-size: 15px;
+}
+
+.hero-content h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.choose-us-thumb {
+    margin-right: 15px;
+}
+
+.section-title h1 {
+    font-size: 34px;
+    line-height: 40px;
+}
+
+.info-icon i {
+    font-size: 25px;
+    margin-right: 15px;
+    padding: 8px 10px;
+}
+
+.info-content h4 {
+    font-size: 19px;
+}
+
+.choose-us-button {
+    padding-top: 0;
+}
+
+.case_study_menu ul li {
+    font-size: 14px;
+    padding: 10px 15px;
+    margin-left: 5px;
+}
+
+.testimonial-section .section-title h5:before {
+    left: 25rem;
+}
+
+.testimonial-section .section-title h5:after {
+    left: 58%;
+}
+
+.blog-meta-content {
+    padding: 26px 20px 18px;
+}
+
+.blog-meta-icon a {
+    font-size: 18px;
+}
+
+.blog-meta-icon a:before {
+    left: -22px;
+    width: 117%;
+}
+
+.footer-widget-menu ul a i {
+    display: none;
+}
+
+.footer-widget-menu ul a {
+    font-size: 14px;
+}
+
+.icon-box-content h4 {
+    font-size: 16px;
+}
+
+.owl-prev {
+    left: 25%;
+}
+
+.owl-next {
+    right: 25%;
+}
+
+.Popular-img {
+    left: 125px;
+    top: -55px;
+}
+
+h4.pricing-from {
+    font-size: 14px;
+    padding: 8px 10px;
+}
+
+.pricing-single-items.style_one.style_3 {
+    padding: 30px 10px 40px 10px;
+}
+
+.pricing-feature ul li.up i {
+    font-size: 12px;
+}
+
+.team-content h4 a {
+    font-size: 20px;
+}
+
+
+ /*--service-details--*/
+ .accordion li p {
+    width: 95%;
+}
+
+.widget-sidebar-menu {
+    padding: 40px 10px 28px;
+}
+
+.widget-sidebar-box {
+    padding: 40px 15px 45px;
+}
+
+.sideber-content p {
+    width: 100%;
+}
+
+.widget_search {
+    padding: 45px 12px;
+}
+
+.widget_search form i {
+    left: 50px;
+}
+
+.widget_search form input {
+    padding: 14px 38px 14px 75px;
+}
+
+h4.sidebar-title:before {
+    width: 110px;
+}
+
+.widget-sidebar-box-right  h4.sidebar-title:before {
+    right: 5px;
+    width: 75px;
+}
+
+.tag-item ul li a {
+    padding: 5px 20px;
+}
+
+.blog-details-title h2 a {
+    font-size: 25px;
+}
+
+.blog-details-title p {
+    width: 100%;
+}
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.sticky {
+    position: absolute !important;
+} 
+
+.it-solution_nav_manu {
+    display: none;
+}
+    
+.hero-section {
+    height: 1200px;
+} 
+
+.hero-content h1 {
+    font-size: 40px;
+    line-height: 45px;
+}
+
+.slider-thumb {
+    margin-top: 30px;
+}
+
+.services-button {
+    float: left;
+    margin-top: -40px;
+    margin-bottom: 30px;
+}
+
+.section-title h1 {
+    font-size: 40px;
+    line-height: 45px;
+}
+
+.choose-us-thumb {
+    margin-bottom: 40px;
+    margin-right: 0;
+}
+
+.case_study_nav {
+    margin-top: -30px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.case_study_menu ul li {
+    margin-right: 15px;
+    margin-left: 0;
+}
+
+.about-us-thumb {
+    margin-top: 40px;
+}
+
+.owl-prev {
+    left: 12%;
+}
+
+.owl-next {
+    right: 12%;
+}
+
+.blog-button {
+    text-align: left;
+    margin-top: -40px;
+    margin-bottom: 35px;
+}
+
+.blog-meta-icon a {
+    font-size: 20px;
+}
+
+.testimonial-section .section-title h5:before {
+    left: 26rem;
+}
+
+.testimonial-section .section-title h5:after {
+    left: 42%;
+}
+
+.blog-meta-icon a:before {
+    width: 122%;
+}
+
+.pricing-tab-button {
+    text-align: left;
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
+
+.Popular-img {
+    left: 160px;
+    top: -52px;
+}
+
+.pricing-feature ul li {
+    font-size: 16px;
+}
+
+.pricing-single-items.style_one.style_3 {
+    padding: 30px 10px 37px 10px;
+}
+
+ /*--service-details--*/
+
+ .accordion li p {
+    width: 83%;
+}
+
+h4.sidebar-title:before {
+    width: 480px;
+}
+
+.widget-sidebar-box-right  h4.sidebar-title:before {
+    width: 455px;
+}
+
+.tag-item ul li a {
+    padding: 5px 30px;
+}
+
+.portfolio-category-box {
+    margin-top: 30px;
+}
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+.sticky {
+    position: absolute !important;
+} 
+
+.it-solution_nav_manu {
+    display: none;
+}
+
+.hero-section {
+    height: 1100px;
+}
+
+.hero-content h1 {
+    font-size: 35px;
+    line-height: 40px;
+}
+
+.hero-content p {
+    width: 84%;
+}
+
+.slider-thumb {
+    margin-top: 30px;
+}
+
+.section-title h1 {
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.services-button {
+    float: left;
+    margin-top: -40px;
+    margin-bottom: 30px;
+}
+
+.service-content p {
+    width: 95%;
+}
+
+.choose-us-thumb {
+    margin-right: 0;
+    margin-bottom: 40px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+}
+
+.case_study_nav {
+    margin-top: -25px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.case_study_menu ul li {
+    padding: 12px 15px;
+    margin-left: 5px;
+
+}
+
+.about-us-thumb {
+    margin-top: 40px;
+}
+
+.section-title h2 {
+    font-size: 24px;
+}
+
+.testi-desc p {
+    font-size: 20px;
+    line-height: 35px;
+    width: 98%;
+}
+
+.owl-next {
+    right: 5%;
+}
+
+.owl-prev {
+    left: 5%;
+}
+
+.blog-button {
+    text-align: left;
+    margin-top: -40px;
+    margin-bottom: 30px;
+}
+
+.blog-meta-icon a {
+    font-size: 18px;
+}
+
+.blog-meta-icon a:before {
+    width: 126%;
+}
+
+.photo-gallery-img-list ul li {
+    padding: 0 0px 10px 0;
+}
+
+.footer-widget-content {
+    margin-top: 30px;
+}
+
+.pricing-tab-button {
+    text-align: left;
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
+
+.Popular-img {
+    left: 320px;
+    top: -28px;
+}
+
+.testimonial-section .section-title h5:before {
+    left: 198px;
+    top: 7px;
+}
+
+.testimonial-section .section-title h5:after {
+    left: 64%;
+    top: 7px;
+}
+
+.accordion li p {
+    font-size: 14px;
+    width: 100%;
+}
+
+.services-details-content h2 {
+    font-size: 25px;
+}
+
+.author-comment-box:before {
+    top: 22px;
+}
+
+.services-description p {
+    width: 100%;
+}
+
+h4.sidebar-title:before {
+    width: 300px;
+}
+
+.widget-sidebar-box-right  h4.sidebar-title:before {
+    width: 275px;
+}
+
+.blog-details-title h2 a {
+    font-size: 22px;
+}
+
+.blog-details-title p {
+    width: 100%;
+}
+
+.portfolio-category-box {
+    margin-top: 30px;
+}
+
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+.sticky {
+    position: absolute !important;
+} 
+
+.it-solution_nav_manu {
+    display: none;
+}
+
+.hero-content h1 {
+    font-size: 35px;
+    line-height: 40px;
+}
+
+.hero-content p {
+    width: 99%;
+}
+
+.slider-thumb {
+    margin-top: 40px;
+}
+
+.section-title h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.services-button {
+    float: left;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+
+.choose-us-thumb {
+    margin-right: 0;
+    margin-bottom: 40px;
+}
+
+.case_study_nav {
+    margin-top: -30px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.case_study_menu ul li {
+    padding: 12px 10px;
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+.about-us-thumb {
+    margin-top: 40px;
+}
+
+.brand-thumb {
+    margin-left: 100px;
+}
+
+.section-title h2 {
+    font-size: 20px;
+}
+
+.testimonial-section .section-title h5:before {
+    left: 10rem;
+}
+
+.testimonial-section .section-title h5:after {
+    left: 67%;
+}
+
+.testi-desc p {
+    font-size: 20px;
+    line-height: 35px;
+    width: 100%;
+}
+
+.owl-next {
+    right: 5%;
+}
+
+.owl-prev {
+    left: 5%;
+}
+
+.blog-button {
+    text-align: left;
+    margin-top: -40px;
+    margin-bottom: 30px;
+}
+
+.blog-meta-icon a:before {
+    width: 115%;
+}
+
+.blog-meta-icon a {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.footer-widget-content {
+    margin-top: 30px;
+}
+
+.pricing-tab-button {
+    text-align: left;
+    margin-top: -45px;
+    margin-bottom: 35px;
+}
+
+.Popular-img {
+    left: 260px;
+    top: -29px;
+}
+
+.sideber-content p {
+    width: 95%;
+}
+
+.services-details-content h2 {
+    font-size: 24px;
+}
+
+.author-comment-box {
+    padding: 22px 30px 25px;
+}
+
+.author-comment-box:before {
+    top: 20px;
+}
+
+.services-description p {
+    width: 100%;
+}
+
+.accordion a.active {
+    padding: 27px 20px 20px 20px;
+}
+
+.accordion li p {
+    padding: 0px 0px 20px 20px;
+    font-size: 14px;
+    width: 100%;
+}
+
+h4.sidebar-title:before {
+    width: 240px;
+}
+
+.widget-sidebar-box-right  h4.sidebar-title:before {
+    width: 210px;
+}
+
+.blog-details-title h2 a {
+    font-size: 20px;
+}
+
+.blog-details-title p {
+    width: 100%;
+}
+
+.portfolio-category-box {
+    margin-top: 30px;
+}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+.sticky {
+    position: absolute !important;
+} 
+
+.it-solution_nav_manu {
+    display: none;
+}
+
+.hero-section {
+    height: 900px;
+}
+
+.hero-content h1 {
+    font-size: 30px;
+    line-height: 40px;
+}    
+
+.hero-content p {
+    width: 100%;
+}
+
+.section-button a {
+    padding: 15px 30px;
+}
+
+.section-button.up a {
+    padding: 14px 30px;
+    margin-left: 5px;
+}
+
+.slider-thumb {
+    margin-top: 40px;
+}
+
+.section-title h1 {
+    font-size: 22px;
+    line-height: 35px;
+}
+
+.services-button {
+    float: left;
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
+
+.choose-us-thumb {
+    margin-right: 0;
+    margin-bottom: 40px;
+}
+
+.case_study_nav {
+    margin-top: -30px;
+}
+
+.case_study_menu ul {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.case_study_menu ul li {
+    padding: 12px 15px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.about-text h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.about-us-button {
+    padding-top: 0;
+    margin-bottom: 40px;
+}
+
+.section-title h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.brand-thumb {
+    margin-left: 32px;
+}
+
+.testimonial-section .section-title h5:before {
+    left: 5rem;
+}
+
+.testimonial-section .section-title h5:after {
+    left: 75%;
+}
+
+.testi-desc p {
+    font-size: 18px;
+    line-height: 28px;
+    width: 100%;
+}
+
+.owl-prev {
+    display: none;
+}
+
+.owl-next {
+    display: none;
+}
+
+.blog-button {
+    text-align: left;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+
+.blog-meta-icon a {
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.blog-meta-icon a:before {
+    width: 126%;
+}
+
+.footer-widget-title {
+    margin-top: 35px;
+}
+
+.pricing-tab-button {
+    text-align: left;
+    margin-top: -45px;
+    margin-bottom: 35px;
+}
+
+.pricing-single-items.style_one.style_3 {
+    padding: 30px 10px 40px 12px;
+}
+
+.copyright-description p {
+    font-size: 14px;
+}
+
+h4.pricing-from {
+    font-size: 14px;
+    padding: 8px 8px;
+}
+
+.pricing-feature ul li {
+    font-size: 17px;
+}
+
+.Popular-img {
+    left: 125px;
+    top: -30px;
+}
+
+.contact-form-content h1 {
+    font-size: 40px;
+}
+
+.breadcumb-title h1 {
+    font-size: 35px;
+}
+
+.services-details-content h2 {
+    font-size: 22px;
+}
+
+.author-comment-box {
+    padding: 22px 25px 25px;
+}
+
+.author-comment-box:before {
+    top: 48px;
+}
+
+.section-title h3 {
+    font-size: 22px;
+}
+
+.accordion a.active {
+    padding: 27px 10px 20px 10px;
+    font-size: 16px;
+}
+  
+.accordion li a i {
+    font-size: 14px;
+}    
+
+.accordion li p {
+    padding: 0px 0px 20px 10px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.accordion a.active {
+    padding: 27px 10px 60px 10px;
+}
+
+.accordion li a {
+    padding: 27px 15px 25px 15px;
+    font-size: 14px;
+}
+
+.widget-sidebar-title h3 {
+    font-size: 25px;
+}
+
+.widget-sidebar-box {
+    padding: 40px 15px 45px;
+}
+
+.widget-sidebar-menu {
+    padding: 40px 15px 28px;
+}
+
+.sideber-content p {
+    width: 100%;
+}
+
+.widget-address-content p {
+    width: 85%;
+}
+
+.widget_search {
+    padding: 45px 10px;
+}
+
+.widget_search form input {
+    padding: 14px 55px 14px 60px;
+}
+
+.widget_search form i {
+    left: 40px;
+}
+
+h4.sidebar-title:before {
+    width: 110px;
+}
+
+.widget-sidebar-box-right  h4.sidebar-title:before {
+    right: 5px;
+    width: 80px;
+}
+
+.blog-details-content {
+    padding: 44px 25px 50px;
+}
+
+.blog-details-title h2 a {
+    font-size: 20px;
+}
+
+.blog-details-title p {
+    width: 100%;
+}
+
+.portfolio-category-box {
+    margin-top: 30px;
+}
+
+}
+
